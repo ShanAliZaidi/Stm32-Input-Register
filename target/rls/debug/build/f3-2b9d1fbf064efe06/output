@@ -1,0 +1,3 @@
+cargo:rustc-link-search=c:\Users\Home\Desktop\Programming\Rust-Programs\button\target\rls\debug\build\f3-2b9d1fbf064efe06\out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=memory.x

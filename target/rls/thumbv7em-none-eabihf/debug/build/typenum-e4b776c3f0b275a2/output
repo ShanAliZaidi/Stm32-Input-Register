@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\Users\Home\Desktop\Programming\Rust-Programs\button\target\rls\thumbv7em-none-eabihf\debug\build\typenum-e4b776c3f0b275a2\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\Users\Home\Desktop\Programming\Rust-Programs\button\target\rls\thumbv7em-none-eabihf\debug\build\typenum-e4b776c3f0b275a2\out\op.rs

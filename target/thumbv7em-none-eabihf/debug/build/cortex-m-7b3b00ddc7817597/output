@@ -1,0 +1,5 @@
+cargo:rustc-link-lib=static=cortex-m
+cargo:rustc-link-search=C:\Users\Home\Desktop\Programming\Rust-Programs\button\target\thumbv7em-none-eabihf\debug\build\cortex-m-7b3b00ddc7817597\out
+cargo:rustc-cfg=cortex_m
+cargo:rustc-cfg=armv7m
+cargo:rustc-cfg=has_fpu

@@ -1,0 +1,3 @@
+cargo:rustc-link-search=c:\Users\Home\Desktop\Programming\Rust-Programs\button\target\rls\debug\build\cortex-m-rt-95459667b455fb82\out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=link.x.in
